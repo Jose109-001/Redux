@@ -1,6 +1,6 @@
 # Redux
 
-## Page: https://jose109-001.github.io/Redux/
+## Heroku: https://redux-t.herokuapp.com/
 
 ## Your Task
 
