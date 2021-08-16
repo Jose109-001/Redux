@@ -1,6 +1,6 @@
 # Redux
 
-## Heroku: https://redux-t.herokuapp.com/
+## Heroku Link: https://redux-t.herokuapp.com/
 
 ## Your Task
 
